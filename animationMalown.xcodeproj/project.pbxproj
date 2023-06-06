@@ -14,6 +14,7 @@
 		666185652A2E78D300AEF3C1 /* animationMalownTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 666185642A2E78D300AEF3C1 /* animationMalownTests.swift */; };
 		6661856F2A2E78D300AEF3C1 /* animationMalownUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6661856E2A2E78D300AEF3C1 /* animationMalownUITests.swift */; };
 		666185712A2E78D300AEF3C1 /* animationMalownUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 666185702A2E78D300AEF3C1 /* animationMalownUITestsLaunchTests.swift */; };
+		6661857E2A2E7C1600AEF3C1 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6661857D2A2E7C1600AEF3C1 /* Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		6661856A2A2E78D300AEF3C1 /* animationMalownUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = animationMalownUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6661856E2A2E78D300AEF3C1 /* animationMalownUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animationMalownUITests.swift; sourceTree = "<group>"; };
 		666185702A2E78D300AEF3C1 /* animationMalownUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = animationMalownUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6661857D2A2E7C1600AEF3C1 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				666185532A2E78D200AEF3C1 /* animationMalownApp.swift */,
 				666185552A2E78D200AEF3C1 /* ContentView.swift */,
+				6661857D2A2E7C1600AEF3C1 /* Colors.swift */,
 				666185572A2E78D300AEF3C1 /* Assets.xcassets */,
 				666185592A2E78D300AEF3C1 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				666185562A2E78D200AEF3C1 /* ContentView.swift in Sources */,
+				6661857E2A2E7C1600AEF3C1 /* Colors.swift in Sources */,
 				666185542A2E78D200AEF3C1 /* animationMalownApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
